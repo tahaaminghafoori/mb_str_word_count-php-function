@@ -18,8 +18,6 @@ function mb_str_word_count($str='ERR',$f=0) {
                     $r = count($as);
                     break;
                 case 1:
-                    $r = array_values($as);
-                    break;
                 case 2:
                     $r = array_values($as);
                     break;
