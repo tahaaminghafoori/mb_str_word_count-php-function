@@ -22,7 +22,7 @@ function mb_str_word_count($str='ERR',$f=0) {
                     $r = array_values($as);
                     break;
                 default:
-                    $r = "Please Enter Correct Number!";
+                    $r = "The format can only contain 0, 1 and 2!";
                     break;
             }
 
