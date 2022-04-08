@@ -9,9 +9,7 @@ mb_str_word_count php function By TahaAminGhafuri(tagteach.ir)
 <p>Fixed format 1 and 2 problem</p>
 <p>Complete simulation and simulation of str_word_count function</p-->
 <h5 style="text-align:center;">در این نسخه:</h5>
-<p>یکی سازی و مچ فرمت 1 و 2</p>
-<p>شبیه سازی کامل و مشابه سازی تابع str_word_count</p>
+<p>تغییر متن ارور</p>
 <br>
 <h5 style="text-align:center;">In this version:</h5>
-<p>Unification and wrist format 1 and 2</p>
-<p>Complete simulation and simulation of str_word_count function</p>
+<p>Change Error Text</p>
