@@ -7,7 +7,7 @@ https://tagteach.ir/
 */
 if(!function_exists("mb_str_word_count")){
 function mb_str_word_count($str='ERR',$f=0) {
-	if ($str === null OR $str == '' OR $str == 'ERR') {
+	if (empty($str) || $str == 'ERR') {
 		return "Error, value can't be empty!";
                 exit;
 	} else {
